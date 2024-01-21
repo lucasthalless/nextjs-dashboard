@@ -5,7 +5,7 @@
 
 [English](./README-en.md) 👈
 
-> Aplicação baseada no curso oficial do framework, disponível no [course curriculum](https://nextjs.org/learn) no Website do Next.js
+> Aplicação baseada no curso oficial do framework, disponível em: nextjs.org/learn
 
 ## Instalação / Execução
 

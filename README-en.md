@@ -2,7 +2,7 @@
 
 # Next.js Dashboard 📊 &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-> App based on the official framework course, available in the [course curriculum](https://nextjs.org/learn) on the Next.js Website
+> App based on the official framework course, available in: nextjs.org/learn
 
 ## Installing / Running
 
